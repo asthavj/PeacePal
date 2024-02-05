@@ -39,7 +39,12 @@ This code uses several libraries and technologies for building a chat applicatio
    - It loads intents from a JSON file containing patterns and responses for the chatbot.
 
 These are the primary technologies and libraries employed in the provided code for creating a chat application with a GUI, background music, and interaction with a natural language processing API.
-
+## Challenges we ran into
+- **Intents and Schema-Free Responses:** Our quest for a suitable JSON file posed a challenge, as we aimed for a chatbot capable of dynamic responses without imposing a specific user schema.
+- **Precision in Mental Health Dataset:** Acquiring an accurate mental health dataset became crucial for practical model training, presenting its own hurdles.
+- **Timeline Pressures and OpenAI Pivot:** The hackathon's tight timeline led us to opt for OpenAI initially. However, due to constraints with the premium version, we pivoted to Stack AI, a no-code generative AI platform, to expedite development. 
+- **Frontend Integration Challenges:** Integrating the React frontend proved challenging, prompting a shift to Tkinter, Python's GUI library, for a seamless fusion of backend and frontend elements.
+- **Music Integration and Library Choosing:** Selecting the appropriate library for integrating music functionality added complexity, requiring careful consideration of factors such as compatibility, features, and ease of integration.
 
 ## Feedback
 We value your feedback! If you have suggestions, encounter issues, or want to share your experience, please reach out through our Discord community or open an issue on GitHub.
