@@ -2,7 +2,7 @@
 Welcome to PeacePal, your empathetic therapist and companion for mental well-being.
 
 # Overview
-PeacePal is a nostalgic journey back to the 90s, offering a unique interface reminiscent of classic games from that era. Designed to evoke a sense of nostalgia and connection to one's childhood, PeacePal aims to provide guidance and support for users dealing with mental health challenges. The chatbot offers empathetic conversations, soothing music, and helpful advice, all within a retro-inspired graphical user interface. So, take a step back in time, relive your childhood memories, and embark on a journey towards mental well-being with PeacePal.
+PeacePal is a nostalgic journey back to the 90s, offering a unique interface reminiscent of classic games from that era. Designed to evoke a sense of nostalgia and connection to one's childhood. PeacePal aims to provide guidance and support for users dealing with mental health challenges. The chatbot offers empathetic conversations, soothing music, and helpful advice, all within a retro-inspired graphical user interface. So, take a step back in time, relive your childhood memories, and embark on a journey towards mental well-being and calmness with PeacePal.
 
 ## Features
 - **Empathetic Conversations:** PeacePal engages users in empathetic conversations, offering a supportive and understanding environment.
@@ -20,7 +20,7 @@ This code uses several libraries and technologies for building a chat applicatio
 
 1. **Tkinter:**
    - Tkinter is a standard GUI (Graphical User Interface) library for Python.
-   - It is used for creating windows, labels, buttons, and other GUI elements in this code.
+   - It is used for creating windows, labels, buttons, and other GUI elements in the code.
 
 2. **Pygame:**
    - Pygame is a set of Python modules designed for writing video games.
@@ -32,7 +32,7 @@ This code uses several libraries and technologies for building a chat applicatio
 
 4. **Requests:**
    - The requests library is used for making HTTP requests.
-   - It is utilized here to interact with a Stack AI API for natural language processing.
+   - It is utilized here to interact with Stack AI's API for natural language processing.
 
 5. **JSON:**
    - The json library is used for working with JSON data.
